@@ -1,4 +1,4 @@
-require 'boot_schedule'
+require_relative 'boot_schedule'
 # Doth not changeth this file. It is your guide.
 
 boot_schedule = BootScheduleApp.new
